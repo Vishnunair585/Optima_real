@@ -1,0 +1,17 @@
+Project: AIRank
+
+Stack:
+- React
+- TypeScript
+- Supabase
+- Tailwind
+
+Rules:
+
+1. Never delete files.
+2. Always explain changes first.
+3. Follow existing architecture.
+4. Use TypeScript strict mode.
+5. Generate production-ready code.
+6. Never modify authentication without approval.
+7. Always create migrations for database changes.
